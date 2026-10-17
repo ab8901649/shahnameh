@@ -1,0 +1,25 @@
+name: shahnameh
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.5
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+
+
+  fonts:
+    - family: Vazir
+      fonts:
+        - asset: assets/font/Vazir.ttf
